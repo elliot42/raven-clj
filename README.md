@@ -2,10 +2,12 @@
 
 A Clojure interface to Sentry.
 
+This is Clojure 1.7-compatible fork.
+
 ## Usage
 
 ```clojure
-[raven-clj "1.3.1"]
+[org.clojars.elliot42/raven-clj "2.0.0"]
 ```
 
 ### `capture`
